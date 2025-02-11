@@ -18,7 +18,8 @@ body{
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    }
    #text-input{
-     padding: 5px
+     padding: 5px;
+     width: 70%
    }
    #check-btn{
      padding: 5px;
